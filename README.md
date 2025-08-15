@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bhashika Jindal
+# Hi there 👋, I'm Bhumika Ambalge
 
 Welcome to my GitHub profile!  
 
