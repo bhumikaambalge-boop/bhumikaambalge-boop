@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Bhashika Jindal
 
-<!--
-**bhumikaambalge-boop/bhumikaambalge-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+I'm currently a final-year student working on **Brain Tumor Detection using Deep Learning**. I’m passionate about exploring **AI, Machine Learning, and Data Science**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Even though I’m building my portfolio, I’m excited to learn and contribute to interesting projects.  
+
+## Skills
+- Programming: Python, C
+- Tools: Git, GitHub, Jupyter Notebook
+- Concepts: Deep Learning, Neural Networks, Data Analysis
+
+## Let's Connect
+Feel free to connect with me here: [LinkedIn](https://www.linkedin.com/in/bhumika-ambalge-5627b0335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](bbhumikaambalge@gmail.com)  
+
+> "Learning never exhausts the mind." – Leonardo da Vinci
