@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 
-I'm currently a final-year student working on **Brain Tumor Detection using Deep Learning**. I’m passionate about exploring **AI, Machine Learning, and Data Science**.  
+I'm currently a final-year student working on **Brain Tumor Detection using Deep Learning**. I’m passionate about exploring **AI, Machine Learning, and web development**.  
 
 Even though I’m building my portfolio, I’m excited to learn and contribute to interesting projects.  
 
